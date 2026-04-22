@@ -12,6 +12,8 @@ It supports two modes:
 There is no separate config file. All runtime settings live at the top of `renew_globalprotect_cert.py`.
 
 ## What It Does
+<img width="1002" height="507" alt="image" src="https://github.com/user-attachments/assets/39bdb94d-6f1f-41fa-a4ba-4ab606b57edd" />
+
 
 In automated mode, the script:
 
